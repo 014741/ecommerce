@@ -64,7 +64,7 @@
 
 ## 메이크샵
 - https://openapi.makeshop.co.kr/
-- Open
+- 제휴업체만 사용가능
 - JSON
 - IP 제한
 
