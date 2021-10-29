@@ -8,10 +8,10 @@
 ## App Key + User Key
 
 플랫폼에 앱을 생성 후 받은 app key와  
-셀러가 해당 앱을 설치 후 받은 user key를 다음 헤더에 전달.
-- 카카오: `Authorization`, `Target-Authorization` 
-- 메이크샵: `Licensekey`, `Shopkey`
-
+셀러가 해당 앱을 설치 후 받은 user key를 전달.
+- 카카오: HTTP Header `Authorization`, `Target-Authorization` 
+- 메이크샵: HTTP Header `Licensekey`, `Shopkey`
+- 고도몰5: POST Body `parter_key`, `key`
 
 
 ## Hash

@@ -75,3 +75,10 @@
 - JSON
 - OAuth
 - IP 제한
+
+
+
+## 고도몰5
+- https://devcenter.nhn-commerce.com/godomall5/openapi/spec
+- 제휴업체만 사용가능
+- XML
