@@ -4,6 +4,7 @@
 관심있으실 분들을 멤버로 초대하고 있습니다.  
 초대를 받아주시면 감사하겠습니다. :bow:
 
+[💡 업계뉴스](https://github.com/014741/ecommerce/discussions/categories/news)    [🙋 질문/답변](https://github.com/014741/ecommerce/discussions/categories/q-a)
 
 
 - - - - - - - - - - - - - - -
