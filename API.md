@@ -17,9 +17,18 @@
 ## SSG
 - https://eapi.ssgadm.com/info/main.ssg
 - Open
-- XML / JSON
+- JSON / XML
 - IP 제한
 
+
+
+## 롯데ON
+- https://api.lotteon.com/
+- Open
+- JSON / XML
+- IP 제한
+- 인증키 유효기간 12개월
+- rate limit: 10K req/min
 
 
 ## 카카오 (톡스토어, 선물하기)
