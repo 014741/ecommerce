@@ -25,6 +25,26 @@ HmacSHA256(
 )
 ```
 
+### ESM
+header `Authorization`에 다음의 hash를 전달.
+```
+jwt({
+    header: {
+        alg: "HS256",
+        typ: "JWT",
+        kid: appId_or_sellerId
+    },
+    payload: {
+        iss: app_domain_or_app_name,
+        sub: "sell",
+        aud: "sa.esmplus.com",
+        iat: timestamp,
+        ssi: "A:{aution_id},G:{gmarket_id}"
+    }
+})
+```
+
+
 
 
 

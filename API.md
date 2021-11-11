@@ -14,6 +14,21 @@
 - euc-kr, IP 제한
 
 
+
+## 스마트스토어
+- 제휴업체만 사용가능
+- 문의: `dl_techsupport@navercorp.com` (스마트스토어, 네이버페이 기술지원)
+
+
+
+## ESM (지마켓, 옥션 G9)
+- https://etapi.ebaykorea.com/
+- 제휴업체만 사용가능, IP 제한
+- 각 셀러는 이메일을 통해 신청하고 app key 받아야.
+- JSON
+
+
+
 ## SSG
 - https://eapi.ssgadm.com/info/main.ssg
 - Open
