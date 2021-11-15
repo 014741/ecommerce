@@ -3,7 +3,7 @@
 셀러가 발급받은 API Key를 다음의 헤더에 전달.
 - 11번가: `openapikey`
 - SSG, 롯데ON, 텐바이텐: `Authorization`
-
+- 위메프 `apiKey`
 
 ## App Key + User Key
 

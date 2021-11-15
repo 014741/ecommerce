@@ -17,7 +17,7 @@
 
 ## 스마트스토어
 - 제휴업체만 사용가능
-- 문의: `dl_techsupport@navercorp.com` (스마트스토어, 네이버페이 기술지원)
+- 문의: [dl_techsupport@navercorp.com](mailto:dl_techsupport@navercorp.com) (스마트스토어, 네이버페이 기술지원)
 
 
 
@@ -66,6 +66,11 @@
 - 제휴업체만 사용가능
 - JSON
 
+
+## 위메프
+- 제휴업체만 사용가능
+- JSON
+- 문의: [w-api@wemakeprice.com](mailto:w-api@wemakeprice.com)
 
 ## 인터파크
 - http://www.interpark.com/openapi/site/APIIntroduce.jsp
