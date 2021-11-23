@@ -1,3 +1,7 @@
+---
+title: API 인증
+---
+
 ## API Key
 
 셀러가 발급받은 API Key를 다음의 헤더에 전달.
