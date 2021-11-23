@@ -1,3 +1,6 @@
+---
+title: 상세설명 관련 툴
+---
 
 ## 자동 처리
 [카페24 에디봇](https://www.cafe24.com/edibot-series/)

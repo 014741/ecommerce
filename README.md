@@ -18,7 +18,7 @@
 - E쿠폰: 작성예정
 
 리스팅/카테고리/광고
-- [동일한 상품의 셀러들을 하나로 합쳐서 노출하는 방법](docs/listing-by-model.md)
+- [아이템 위너](docs/listing-by-model.md): 동일한 상품의 셀러들을 하나로 합쳐서 노출하는 방법
 - [오픈마켓 마이샵](docs/listing-my-shop.md)
 - [그룹상품/연관상품/코디상품](docs/listing-grouping.md)
 
