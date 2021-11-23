@@ -10,51 +10,51 @@
 - - - - - - - - - - - - - - -
 
 상품등록
-- [판매옵션의 형태: 독립형, 조합형 등](판매옵션의%20형태%3A%20독립형,%20조합형%20등.md)
-- [상세설명 이미지 호스팅](상세설명%20이미지%20호스팅.md)
-- [모바일 상세설명](모바일%20상세설명.md)
-- [상품 이미지 제한](상품%20이미지%20제한.md)
-- [렌탈 / 휴대폰 개통 판매](렌탈,휴대폰.md)
+- [판매옵션의 형태: 독립형, 조합형 등](docs/product-option-type.md)
+- [상세설명 이미지 호스팅](docs/product-image-hosting.md)
+- [모바일 상세설명](docs/product-mobile.md)
+- [상품 이미지 제한](docs/product-thumbnails.md)
+- [렌탈 / 휴대폰 개통 판매](docs/product-rent.md)
 - E쿠폰: 작성예정
 
 리스팅/카테고리/광고
-- [동일한 상품의 셀러들을 하나로 합쳐서 노출하는 방법](동일한%20상품의%20셀러들을%20하나로%20합쳐서%20노출.md)
-- [오픈마켓 마이샵](오픈마켓%20마이샵.md)
-- [그룹상품/연관상품/코디상품](그룹상품,연관상품,코디상품.md)
+- [동일한 상품의 셀러들을 하나로 합쳐서 노출하는 방법](docs/listing-by-model.md)
+- [오픈마켓 마이샵](docs/listing-my-shop.md)
+- [그룹상품/연관상품/코디상품](docs/listing-grouping.md)
 
 판매관리
-- [판매자 공지사항](판매자%20공지사항.md)
-- [사전예약판매](사전예약판매.md)
-- [수수료](수수료.md)
-- [정기결제/구독](정기결제.md)
+- [판매자 공지사항](docs/sales-notice.md)
+- [사전예약판매](docs/sales-pre-sale.md)
+- [수수료](docs/sales-fee.md)
+- [정기결제/구독](docs/sales-subscription.md)
 
 주문/배송/취소/반품/교환
-- [주문/배송/취소/반품/교환 라이프싸이클](주문%20라이프싸이클.md)
-- [주문-상품-발송](주문-상품-발송.md)
-- [주문 옵션정보](주문%20옵션정보.md)
+- [주문/배송/취소/반품/교환 라이프싸이클](docs/order-cycle.md)
+- [주문-상품-발송](docs/order-delivery.md)
+- [주문 옵션정보](docs/order-product.md)
 
 재고관리
 - 품절처리 방법: 작성예정
 - 단품의 품절/수량변경: 작성예정
 
 마켓/몰 관리
-- [매니저 관리](매니저%20관리.md)
+- [매니저 관리](docs/mgmt-manager.md)
 
 통합 재고관리: 여러 마켓/몰에 같은 상품을 판매 시, 재고 수량을 관리하는 방법
-- [통합 재고관리 방법 비교](통합%20재고관리%20방법%20비교.md)
-- [세트재고](세트재고.md)
+- [통합 재고관리 방법 비교](docs/stocksync-basic.md)
+- [세트재고](docs/stocksync-set-stock.md)
 
 
 API 일반
-- [오픈마켓, 쇼핑몰호스팅 API 지원현황](API.md)
-- [API 인증](API%20인증.md)
+- [오픈마켓, 쇼핑몰호스팅 API 지원현황](docs/api-service.md)
+- [API 인증](docs/api-auth.md)
 
 통합관리
-- [통합 상품/주문/재고 솔루션 일람](통합솔루션.md)
-- [판매분석 솔루션](판매분석%20솔루션.md)
-- [정산관리 솔루션](정산관리%20솔루션.md)
+- [통합 상품/주문/재고 솔루션 일람](docs/tools-awesome.md)
+- [판매분석 솔루션](docs/tools-sales.md)
+- [정산관리 솔루션](docs/tools-finance.md)
 
-[풀필먼트](풀필먼트.md)
+[풀필먼트](docs/fulfillments.md)
 
 유틸리티
-- [상세페이지 제작 툴](상세페이지%20제작.md)
+- [상세페이지 제작 툴](docs/utils-product-detail.md)
