@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: K-코머스
 description: 쇼핑몰 개발 정보와 커뮤니티
+plugins:
+  - jekyll-sitemap
