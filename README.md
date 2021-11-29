@@ -16,6 +16,7 @@
 - [상품 이미지 제한](docs/product-thumbnails.md)
 - [렌탈 / 휴대폰 개통 판매](docs/product-rent.md)
 - E쿠폰: 작성예정
+- [HTML에디터, HTML직접입력](docs/html.md)
 
 리스팅/카테고리/광고
 - [아이템 위너](docs/listing-by-model.md): 동일한 상품의 셀러들을 하나로 합쳐서 노출하는 방법
