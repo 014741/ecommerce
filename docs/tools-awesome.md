@@ -33,6 +33,8 @@ title: 쇼핑몰통합관리 솔루션
     - 베타테스트 기간 중 무료. 2022년 유료화 예정.
     - KAIST 출신 스타트업
     - 2021년 4월 시리즈A 50억 투자 유치.
+- [샵플링](http://www.shopling.co.kr/)
+    - 도매꾹과 제휴. 사무실도 같음.
 
 
 ## 솔루션 (가나다순)
@@ -46,7 +48,6 @@ title: 쇼핑몰통합관리 솔루션
 - [샵마인](http://www.shopmine.co.kr/sm) 클라이언트 설치형
 - [샵온 - 도매토피아](http://dometopia.com/shoppingmall)
 - [샵플레이어](http://shopplayer.co.kr/): 구매대행 전문
-- [샵플링](http://www.shopling.co.kr/)
 - [세원셀릭](http://www.sellic.co.kr/): 패션 전문. 2016년 이후 공지사항 없음
 - [셀러게이트](https://www.thecloudgate.co.kr/sellergate/) 스마트스토어 고객문의/채팅 통합
 - [셀프로](http://www.sellpro.co.kr/): 컴퓨터 카테고리 전문인듯
