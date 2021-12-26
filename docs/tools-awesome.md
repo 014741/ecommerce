@@ -17,7 +17,8 @@ title: 쇼핑몰통합관리 솔루션
     - 오픈마켓 상품등록, 주문수집 가능
     - 2013년 메이크샵에서 출시.
 - [샵링커](http://www.shoplinker.co.kr/) (네모커머스/한국정보공학)
-    - 브라우저 버전인 *샵링커S*를 *이지위너*로 명칭 변경.
+    - [이지위너](https://www.easywinner.co.kr/) 브라우저 버전. 구 샵링커S.
+    - [고 웨스트](https://mgr.shoplinkerg.com/) 글로벌 버전. 샵링커G 에서 고 웨스트로 브랜딩 중.
 - [SSG 셀픽](http://www.ssgsellpick.com/)
 - [가비아 이셀러스 주머니4.5](https://www.esellers.co.kr/)
     - 2020년 가비아가 이셀러스를 인수합병.
