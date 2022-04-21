@@ -43,6 +43,7 @@
 
 통합 재고관리: 여러 마켓/몰에 같은 상품을 판매 시, 재고 수량을 관리하는 방법
 - [통합 재고관리 방법 비교](docs/stocksync-basic.md)
+- [마켓/몰에서 판매자재고코드를 지원하는 방법](docs/seller-stock-code.md)
 - [세트재고](docs/stocksync-set-stock.md)
 
 
