@@ -34,6 +34,7 @@ title: 쇼핑몰통합관리 솔루션
     - 베타테스트 기간 중 무료. 2022년 유료화 예정.
     - KAIST 출신 스타트업
     - 2021년 4월 시리즈A 50억 투자 유치.
+    - 도매꾹과 제휴한 [방구석판매왕](https://www.youtube.com/playlist?list=PLn43WLAbPb_W5AAI5GO6oCBnbs6ZjYEPD)
 - [샵플링](http://www.shopling.co.kr/)
     - 도매꾹과 제휴. 사무실도 같음.
 
