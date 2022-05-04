@@ -12,6 +12,7 @@
 상품등록
 - [판매옵션의 형태: 독립형, 조합형 등](docs/product-option-type.md)
 - [표준옵션(상품 v2) 제한](docs/v2-options.md)
+- [상품정보 수정 제한](docs/product-edit-limit.md)
 - [상세설명 이미지 호스팅](docs/product-image-hosting.md)
 - [모바일 상세설명](docs/product-mobile.md)
 - [상품 이미지 제한](docs/product-thumbnails.md)
