@@ -16,6 +16,7 @@
 - [상세설명 이미지 호스팅](docs/product-image-hosting.md)
 - [모바일 상세설명](docs/product-mobile.md)
 - [상품 이미지 제한](docs/product-thumbnails.md)
+- [옵션 이미지](docs/product-option-thumbnails.md)
 - [렌탈 / 휴대폰 개통 판매](docs/product-rent.md)
 - E쿠폰: 작성예정
 - [HTML에디터, HTML직접입력](docs/html.md)
