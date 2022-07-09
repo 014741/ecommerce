@@ -93,7 +93,7 @@ title: 쇼핑몰통합관리 솔루션
 
 - [셀러링크](http://sellerlink.co.kr/index.html)
 - [레인보우](https://www.wksoft.kr/KOR/Rainbow.wk)
-- [하경소프트](https://hakyungsoft.modoo.at/)
+- [하경소프트 지브릿지](https://hakyungsoft.modoo.at/?link=brpaktaq)
 - [투플렉스](https://www.twoflex.net/)
 - [키냅스](https://kineps.io/)
 - [알리차이나](http://ali-china.com)
